@@ -1,0 +1,19 @@
+{"level":"info","message":"Hello simple log!"}
+{"color":"blue","level":"info","message":"Hello log with metas"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:17 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:22 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:27 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:32 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:37 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:42 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:47 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:52 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:17:57 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:02 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:07 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:12 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:17 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:22 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:27 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:32 GMT+0300 (Israel Daylight Time)"}
+{"level":"info","message":"this is the data: Sun Oct 03 2021 14:18:37 GMT+0300 (Israel Daylight Time)"}
