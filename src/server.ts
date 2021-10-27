@@ -6,9 +6,7 @@ const { createLogger, format, transports } = require('winston');
 // server.ts
 // import tracer.ts must come before importing any instrumented module.
 
-// tracer.ts
-import tracer from "dd-trace";
-tracer.init(); // initialized in a different file to avoid hoisting.
+import "./app/services/tracer"; // must come before importing any instrumented module.
 
 const logger = createLogger({
   level: 'info',
