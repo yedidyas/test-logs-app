@@ -1,5 +1,5 @@
 // @ts-nocheck
-import "./app/services/tracer"; // must come before importing any instrumented module.
+import "./tracer"; // must come before importing any instrumented module.
 
 
 const { createLogger, format, transports } = require('winston');
